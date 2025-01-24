@@ -1,3 +1,7 @@
+# Future Steps
+https://python.langchain.com/docs/versions/migrating_memory/long_term_memory_agent/
+Memory Agent
+
 # RefineNB
 
 A CLI tool for translating and extracting content from Jupyter notebooks.
