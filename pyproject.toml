@@ -26,7 +26,7 @@ dependencies = [
 ]
 
 [project.scripts]
-refinenb = "refinenb.cli:main"
+refinenb = "src.cli:main"
 
 [tool.pytest.ini_options]
 addopts = "-ra -q"
